@@ -1,2 +1,2 @@
-document.write("Hello! this is js");
-console.log("Console msg");
+document.write("Hello! this is on doc");
+console.log("Hello Console msg");
