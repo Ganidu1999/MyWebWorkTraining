@@ -1,2 +1,2 @@
-document.write("Hello! this is on doc");
-console.log("Hello Console msg");
+console.log("Hello This is Console msg");
+document.write("Ganidu Bandara"+\n+0778435303);
